@@ -54,8 +54,5 @@ npx expo install @expo/metro-runtime
 ```bash
 npm run reset-project
 ```
-- 9 Agora você pode começar a desenvolver seu aplicativo React Native. Abra o arquivo `app/index.tsx` no diretório do seu projeto e comece a editar o código. As alterações serão refletidas automaticamente no emulador ou dispositivo conectado.
-
----
 
 ![SCreenShot](./assets/images/Captura%20de%20tela%202025-08-05%20155648.png)
