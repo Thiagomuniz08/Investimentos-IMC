@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Investimentos-IMC
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -33,11 +33,11 @@ npm install -g expo-cli
 ```
 - 4 Execute o comando para criar um novo projeto React Native:
 ```bash
-npx create-expo-app@latest NomeDoSeuProjeto
+npx create-expo-app@latest Investimentos-IMC
 ```
  - 5 Após a criação do projeto, navegue até a pasta do projeto:
 ```bash
-cd NomeDoSeuProjeto
+cd Investimentos-IMC
 ```
 - 6 Para executar o projeto, execute o comando:
 ```bash
